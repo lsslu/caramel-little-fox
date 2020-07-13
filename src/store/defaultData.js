@@ -1,6 +1,6 @@
 const defaultData = {
   name: 'lss',
-  message: 'hello sandy'
+  message: 'hello kitty'
 };
 
 export default defaultData;

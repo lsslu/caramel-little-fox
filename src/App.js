@@ -8,7 +8,7 @@ import defaultData from './store/defaultData';
 function App() {
   console.log(Store)
   return (
-    <Store.Provider value={defaultData}>
+    // <Store.Provider value={defaultData}>
       <div className="App">
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
@@ -26,7 +26,7 @@ function App() {
         </header>
         <Info />
       </div>
-    </Store.Provider>
+    // </Store.Provider>
   );
 }
 
