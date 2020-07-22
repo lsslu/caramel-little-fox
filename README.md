@@ -5,7 +5,8 @@ a project for myself to try some practise.
 ### TODO
 
 - [x] react context
-- [ ] canvas 画扇形，画时钟
+- [x] canvas 画扇形
+- [ ] canvas 画时钟
 - [ ] canvas 画刮刮卡
 - [ ] event loop 浏览器和node两种模式下验证
 - [ ] 柯里化
